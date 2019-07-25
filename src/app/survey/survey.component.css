@@ -1,0 +1,22 @@
+.grid-container {
+    display: inline-flex;
+    text-align: center;
+    font-size: 30px;
+    padding : 12px;
+    margin-left: 20px;
+    
+  }
+  .grid-item {
+     
+    background-color: lightgrey;
+    border-radius: 10%;
+    width: 150px;
+    border: 1px solid black;
+    padding: 8px;
+    margin: 9px;
+    font-size: 11px;
+   
+  }
+  .main{
+    background-color: black;
+  }
